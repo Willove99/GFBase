@@ -1,0 +1,6 @@
+framework module GFBase {
+  umbrella header "GFBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
